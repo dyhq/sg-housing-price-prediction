@@ -26,12 +26,7 @@ This project aims to predict housing prices in Singapore and provide insights on
    python sg-housing-price.py
    ```
 
-3. Perform exploratory data analysis:
-   ```
-   python exploratory_data_analysis.py
-   ```
-
-4. The report can be found in `Reporting.pdf`.
+3. The report can be found in `Reporting.pdf`.
 
 ## File Structure
 
@@ -40,11 +35,11 @@ This project aims to predict housing prices in Singapore and provide insights on
 
 ## Dependencies
 
-python=3.10.15
-pandas=2.2.3
-matplotlib=3.9.2
-seaborn=0.13.2
-scikit-learn=1.5.2
-scikit-optimize=0.10.2
-numpy=2.1.1
-joblib=1.4.2
+- python=3.10.15
+- pandas=2.2.3
+- matplotlib=3.9.2
+- seaborn=0.13.2
+- scikit-learn=1.5.2
+- scikit-optimize=0.10.2
+- numpy=2.1.1
+- joblib=1.4.2
